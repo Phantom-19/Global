@@ -4,7 +4,7 @@
 <a href="#"><img title="All Repositories " src="https://img.shields.io/badge/All-%20Repositories-cyan?colorA=cyan&colorB=black"></a>
 </p>
 <p align="center">
-<img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Faxel&show_icons=true&include_all_commits=true&hide_border=true"/>
+<img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true"/>
 <img alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/> 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/>
 </p> 
