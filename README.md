@@ -1,3 +1,9 @@
+
+```
+         ░█▀▀█ █░░ █░░ 　 ▒█▀▀█ █▀▀ █▀▀█ █▀▀█ █▀▀ ░▀░ ▀▀█▀▀ █▀▀█ █▀▀█ ░▀░ █▀▀ █▀▀ 
+         ▒█▄▄█ █░░ █░░ 　 ▒█▄▄▀ █▀▀ █░░█ █░░█ ▀▀█ ▀█▀ ░░█░░ █░░█ █▄▄▀ ▀█▀ █▀▀ ▀▀█ 
+         ▒█░▒█ ▀▀▀ ▀▀▀ 　 ▒█░▒█ ▀▀▀ █▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀ ░░▀░░ ▀▀▀▀ ▀░▀▀ ▀▀▀ ▀▀▀ ▀▀▀ 
+ ```  
 <p align="left">
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green"></a>
 <p align="right">
@@ -19,13 +25,7 @@
 <a href="https://github.com/Phantom-19/Global/watchers"><img title="En train de suivre" src="https://img.shields.io/github/watchers/Phantom-19/Global?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
-</p>
-
-```
-░█▀▀█ █░░ █░░ 　 ▒█▀▀█ █▀▀ █▀▀█ █▀▀█ █▀▀ ░▀░ ▀▀█▀▀ █▀▀█ █▀▀█ ░▀░ █▀▀ █▀▀ 
-▒█▄▄█ █░░ █░░ 　 ▒█▄▄▀ █▀▀ █░░█ █░░█ ▀▀█ ▀█▀ ░░█░░ █░░█ █▄▄▀ ▀█▀ █▀▀ ▀▀█ 
-▒█░▒█ ▀▀▀ ▀▀▀ 　 ▒█░▒█ ▀▀▀ █▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀ ░░▀░░ ▀▀▀▀ ▀░▀▀ ▀▀▀ ▀▀▀ ▀▀▀ 
- ```     
+</p>   
  
 ## `Installation  `:
 
