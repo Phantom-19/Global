@@ -18,11 +18,11 @@
 <a href="https://github.com/Phantom-19/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-originale-orange.svg?"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-originale-green.svg?"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
 <a href="https://github.com/Phantom-19/Global/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Global?color=orange"></a>
-<a href="https://github.com/Phantom-19/Global/network/members"><img title="Fourcher" src="https://img.shields.io/github/forks/Phantom-19/Global?color=red"></a>
-<a href="https://github.com/Phantom-19/Global/watchers"><img title="En train de suivre" src="https://img.shields.io/github/watchers/Phantom-19/Global?label=Watchers&color=blue"></a>
+<a href="https://github.com/Phantom-19/Global/network/members"><img title="Fourcher" src="https://img.shields.io/github/forks/Phantom-19/Global?color=orange"></a>
+<a href="https://github.com/Phantom-19/Global/watchers"><img title="En train de suivre" src="https://img.shields.io/github/watchers/Phantom-19/Global?label=Watchers&color=orange"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>   
