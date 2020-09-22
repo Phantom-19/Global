@@ -18,7 +18,7 @@
 <a href="https://github.com/Phantom-19/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-11-orange.svg?"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-originale-orange.svg?"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
 <a href="https://github.com/Phantom-19/Global/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Global?color=orange"></a>
 <a href="https://github.com/Phantom-19/Global/network/members"><img title="Fourcher" src="https://img.shields.io/github/forks/Phantom-19/Global?color=red"></a>
